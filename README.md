@@ -1,9 +1,9 @@
-
-
 ### Project Title: FashionMNIST Image Classification with PyTorch CNN
 
 ### Overview
 This notebook builds, trains, and evaluates a Convolutional Neural Network (CNN) using PyTorch for image classification on the FashionMNIST dataset (60,000 training and 10,000 test images, 28x28 grayscale, 10 classes).
+
+![CNN](cnn.png "CNN")
 
 ### Notebook Structure Highlights
 1.  **Setup and Imports**: Essential libraries for PyTorch, data handling, and visualization.
